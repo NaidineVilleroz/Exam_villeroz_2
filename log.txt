@@ -1,0 +1,4 @@
+This is my StreamWriter logging details 04/05/2023 6:06:58 pm.
+This is my StreamWriter logging details 04/05/2023 6:07:01 pm.
+This is my StreamWriter logging details 04/05/2023 6:07:03 pm.
+This is my StreamWriter logging details 04/05/2023 6:07:05 pm.
